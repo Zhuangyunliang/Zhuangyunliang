@@ -1,12 +1,8 @@
 ### Hi there 👋
-
-⏳ Year progress { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.92 %
-
+⏳ Year progress { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 33.06 %
 ---
-
-⏰ Updated on Wed, 27 Apr 2022 12:13:51 GMT
-
----       
+⏰ Updated on Sun, 01 May 2022 15:50:45 GMT
+---
 
 ### About me      
 
@@ -24,3 +20,4 @@ I'm Yunliang Zhuang, a student in computer department.
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)     
 
 [![Zhuangyunliang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhuangyunliang&theme=xcode)](https://github.com/Zhuangyunliang)
+

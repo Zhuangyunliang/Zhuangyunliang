@@ -27,7 +27,4 @@ jobs:
         git config user.email 'zhuang_yunliang@163.com'
         git add README.md
         git commit -m "bot: update README.md automatically"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
+        git push

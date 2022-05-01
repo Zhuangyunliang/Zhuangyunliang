@@ -16,11 +16,11 @@ function generateProgressBar() {
 const readme = `\
 ### Hi there 👋
 
-⏳ Year progress { █████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 31.92 %
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 
 ---
 
-⏰ Updated on Wed, 27 Apr 2022 12:13:51 GMT
+⏰ Updated on ${new Date().toUTCString()}
 
 ---
 

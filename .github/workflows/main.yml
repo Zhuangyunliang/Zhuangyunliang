@@ -20,7 +20,9 @@ jobs:
       run: node index.js > README.md
     - name: Commit change & Push
       run: |
-          git config user.name 'github-actions[bot]'
-          git config user.email '1129697645+github-actions[bot]@users.noreply.github.com'
+          git config user.name 'Zhuang Yunliang'
+          git config user.email 'Zhuangyunliang@users.noreply.github.com'
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
+          git checkout "${GITHUB_REF:11}"
           git commit -am "bot: update README.md automatically"
           git push

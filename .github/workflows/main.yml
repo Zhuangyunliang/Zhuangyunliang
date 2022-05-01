@@ -1,10 +1,10 @@
 name: Progress Bar CI
 
 on:
-  [push]
-#   workflow_dispatch:
-#   schedule:
-#     - cron: '0 */1 * * *'
+#   [push]
+  workflow_dispatch:
+  schedule:
+    - cron: '0 */12 * * *'
 # git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/$GITHUB_REPOSITORY
 
 jobs:

@@ -13,7 +13,7 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-const readme = `\
+const readme = '\
 ### Hi there 👋
 ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
 ---
@@ -36,4 +36,4 @@ I'm Yunliang Zhuang, a student in computer department.
 ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)     
 
 [![Zhuangyunliang's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zhuangyunliang&theme=xcode)](https://github.com/Zhuangyunliang)
-\`
+\'

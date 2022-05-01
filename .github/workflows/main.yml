@@ -24,10 +24,9 @@ jobs:
       run: |
           git config user.name 'github-actions[bot]'
           git config user.email '1129697645+github-actions[bot]@users.noreply.github.com'
-          git add .
           git commit -m "bot: update README.md automatically"
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: GitHub Push
+      uses: ad-m/github-push-action@v0.6.0
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
         branch: ${{ github.ref }}

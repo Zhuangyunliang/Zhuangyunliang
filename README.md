@@ -12,6 +12,7 @@
 
 I'm Yunliang Zhuang, a student in computer department.    
 
+**Note**
 - 🔭 I’m currently striving for a better life in Jinan.     
 - 🤔 My blog 👉        
 - 💬 Ask me some questions about Effeciency Tools 👉 

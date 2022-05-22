@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.65 %
+⏳ Year progress { ███████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 38.77 %
 
 ---
 
-⏰ Updated on Sun, 22 May 2022 01:38:41 GMT
+⏰ Updated on Sun, 22 May 2022 12:33:20 GMT
 
 ---
 
@@ -12,7 +12,6 @@
 
 I'm Yunliang Zhuang, a student in computer department.    
 
-> **Note**
 - 🔭 I’m currently striving for a better life in Jinan.     
 - 🤔 My blog 👉        
 - 💬 Ask me some questions about Effeciency Tools 👉 
